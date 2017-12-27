@@ -2,11 +2,9 @@
 Final Project for CIS 120
 
 This is my final project for Programming Languages and Techniques I (CIS 120) at the University of Pennsylvania.
-
-Pro tips for running my game:
-
--Game has the main method.
-
+<html>
+<b>Pro tips for running my game:</b> <br>
+-Game has the main method. <br>
 -Make sure to download highscores.sarah to access the high score functionality.
 
 Instructions for the assignment: 
